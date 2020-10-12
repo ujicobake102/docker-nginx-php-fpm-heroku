@@ -2,11 +2,7 @@
   "name": "Telegram Leecher",
   "description": "A Telegram Leecher based on Pyrogram",
   "keywords": [
-    "telegram",
-    "pyrogram",
-    "torrent",
-    "3",
-    "leecher"
+    "telegram"
   ],
   "website": "https://github.com/ujicobake102/docker-nginx-php-fpm-heroku",
   "repository": "https://github.com/ujicobake102/docker-nginx-php-fpm-heroku",
