@@ -1,8 +1,8 @@
 {
-  "name": "Telegram Leecher",
-  "description": "A Telegram Leecher based on Pyrogram",
+  "name": "docker-nginx-php-fpm-heroku",
+  "description": "docker-nginx-php-fpm-heroku",
   "keywords": [
-    "telegram"
+    "docker-nginx-php-fpm-heroku"
   ],
   "website": "https://github.com/ujicobake102/docker-nginx-php-fpm-heroku",
   "repository": "https://github.com/ujicobake102/docker-nginx-php-fpm-heroku",
